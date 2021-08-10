@@ -1,0 +1,21 @@
+.main {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contain {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.contain svg {
+  padding: 4em 0;
+}
+.title {
+  font-size: 3.5rem;
+  font-weight: 800;
+  text-align: center;
+}
